@@ -45,30 +45,8 @@ Synapse is a desktop application that enables developers to visually design, bui
 ### 🎯 **Workflow Execution**
 - Run workflows as live Express servers
 - Real-time execution logs in integrated console
-- Test endpoints with custom input data via the Start Node editor
-- View compiled server code before deployment
-- Metadata tracking with `lastModified` timestamps
 
-### 🖥️ **Cross-Platform Desktop App**
-- Built with Electron for native desktop experience
-- Custom application icon and branding
-- Available for **macOS** (Apple Silicon & Intel), **Windows**, and **Linux**
-- Native file dialogs and system integration
-
-<img width="2764" height="1964" alt="CleanShot 2025-11-22 at 21 49 41@2x" src="https://github.com/user-attachments/assets/f0cfaf3e-4c17-414c-b781-9ce588c953ce" />
-<img width="2764" height="1964" alt="CleanShot 2025-11-22 at 21 50 31@2x" src="https://github.com/user-attachments/assets/baa7577c-3129-4da5-81d5-edad461e31da" />
 <img width="2764" height="1964" alt="CleanShot 2025-11-22 at 22 03 51@2x" src="https://github.com/user-attachments/assets/2c4912fb-8e45-4c63-923a-edd69358a54f" />
-
----
-
-## 🎨 User Experience Highlights
-
-### Modern Interface Design
-- Clean, professional UI built with React and Tailwind CSS
-- Resizable and collapsible sidebar (Ctrl+B to toggle)
-- Smooth animations and transitions
-- Lucide React icons throughout
-- Light theme optimized for extended use
 
 ---
 
