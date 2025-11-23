@@ -1,8 +1,6 @@
-# Synapse v1.0.0 - Initial Release
+# Synapse
 
-**Release Date:** November 22, 2025
-
-We're thrilled to announce the first official release of **Synapse** - a powerful visual workflow editor that lets you build API workflows and automation through an intuitive node-based interface!
+We're thrilled to announce **Synapse**, a powerful visual workflow editor that lets you build API workflows and automation through an intuitive node-based interface.
 
 ---
 
