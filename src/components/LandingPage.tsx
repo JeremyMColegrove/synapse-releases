@@ -452,7 +452,7 @@ export const LandingPage = ({activeTab, setActiveTab}: LandingPageProps) => {
 						visual backend development.
 					</p>
 
-					<div className="bg-slate-900/80 backdrop-blur-sm p-2 rounded-2xl inline-flex mb-12 border border-slate-800">
+					<div className="bg-slate-900/80 backdrop-blur-sm p-2 rounded-2xl flex flex-col md:inline-flex md:flex-row mb-12 border border-slate-800">
 						{["windows", "mac", "linux"].map((os) => (
 							<button
 								key={os}

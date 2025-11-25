@@ -7,8 +7,6 @@ A Secret is a key-value pair where:
 *   **Key**: A unique identifier (e.g., `OPENAI_API_KEY`).
 *   **Value**: The sensitive data.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zr-eZ_pLTNI?si=0eZHwHyBBv3T41rK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ## Managing Secrets
 You can manage secrets in the **Environment** modal.
 
